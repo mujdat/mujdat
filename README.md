@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+My name is Müjdat Korkmaz, I'm a Front-End Developer and I currently work at PHMU based in Dresden, Germany.
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
