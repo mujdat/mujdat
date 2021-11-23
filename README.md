@@ -4,7 +4,7 @@ My name is Müjdat Korkmaz, I'm a Front-End Developer and I currently work at PH
 
 I started my journey as a developer with WordPress and it's still one of the main technologies I use to create websites and web applications. Besides WordPress and the fundamentals like HTML, CSS & JavaScript, I use technologies like TypeScript, Vue.js, Nuxt.js, Alpine.js, TailwindCSS, SASS, GraphQL & REST APIs every day. 
 
-I'm experienced in building dynamic, flexible, interactive and modern user interfaces.
+I'm experienced in building dynamic, flexible, interactive and modern user interfaces that are accesible and performant.
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
