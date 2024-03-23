@@ -1,10 +1,16 @@
 ### Hello there! 👋
 
-My name is Müjdat Korkmaz, I'm a Front-End Developer and I currently work at PHMU as well as a freelancer on the side, based in Dresden, Germany.
+My name is Müjdat Korkmaz, I'm a Full-Stack Developer based in Dresden, Germany.
 
-I started my journey as a developer with WordPress and it's still one of the main technologies I use to create websites and web applications. Besides WordPress and the fundamentals like HTML, CSS & JavaScript, I use technologies like TypeScript, Vue.js, Nuxt.js, Alpine.js, TailwindCSS, SASS, GraphQL & REST APIs every day. 
+I started my journey as a developer 10+ years ago with PHP and WordPress.
 
-I'm experienced in building user interfaces that are accesible, performant, responsive, interactive and modern.
+In addition to learning the fundamentals of HTML, CSS, and JavaScript, I use technologies or frameworks like TypeScript, Vue.js, Nuxt.js, TailwindCSS, NestJS, REST and GraphQL APIs on a daily basis. These tools allow me to work efficiently.
+
+I look forward to the future with excitement, as the world of web development is ever-evolving. My aim is to stay up to date as much as I can.
+
+If you're looking for a developer to bring your ideas to life, you're at the right place!
+
+I also like creating electronic music, cycling and bouldering in my free time.
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
