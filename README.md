@@ -1,16 +1,10 @@
-### Hello there! 👋
+### Hello! 👋🏻
 
-My name is Müjdat Korkmaz, I'm a Full-Stack Developer based in Dresden, Germany.
+I’m Müjdat, a software developer, electronic music maker and cycling enthusiast based in Dresden, Germany.
 
-I started my journey as a developer 10+ years ago with PHP and WordPress.
+I bring over 10 years of experience, and specialize in building modern, agile, and custom software solutions. My expertise includes technologies such as Vue.js, Nuxt.js, NestJS, Shopware, and TailwindCSS, and I work daily with TypeScript, REST, and GraphQL APIs to streamline development. I’m committed to staying up-to-date in the ever-evolving field of software development and am excited to bring unique ideas to life.
 
-In addition to learning the fundamentals of HTML, CSS, and JavaScript, I use technologies or frameworks like TypeScript, Vue.js, Nuxt.js, TailwindCSS, NestJS, REST and GraphQL APIs on a daily basis. These tools allow me to work efficiently.
-
-I look forward to the future with excitement, as the world of web development is ever-evolving. My aim is to stay up to date as much as I can.
-
-If you're looking for a developer to bring your ideas to life, you're at the right place!
-
-I also like creating electronic music, cycling and bouldering in my free time.
+I'm currently building Velopacker — All-in-one Bikepacking and Touring Planner
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
