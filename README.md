@@ -4,7 +4,7 @@ I’m Müjdat, a software developer, electronic music maker and cycling enthusia
 
 I bring over 10 years of experience, and specialize in building modern, agile, and custom software solutions. My expertise includes technologies such as Vue.js, Nuxt.js, NestJS, Shopware, and TailwindCSS, and I work daily with TypeScript, REST, and GraphQL APIs to streamline development. I’m committed to staying up-to-date in the ever-evolving field of software development and am excited to bring unique ideas to life.
 
-I'm currently building Velopacker — All-in-one Bikepacking and Touring Planner
+I'm currently building [Velopacker](https://velopacker.com) — All-in-one Bikepacking and Touring Planner
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
