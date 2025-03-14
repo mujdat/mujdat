@@ -1,10 +1,13 @@
 ### Hello! 👋🏻
 
-I’m Müjdat, a software developer, electronic music maker and cycling enthusiast based in Dresden, Germany.
+My name is **Müjdat** — I'm a **software developer**, electronic music maker and a cycling enthusiast based in Dresden, Germany.
 
-I bring over 10 years of experience, and specialize in building modern, agile, and custom software solutions. My expertise includes technologies such as Vue.js, Nuxt.js, NestJS, Shopware, and TailwindCSS, and I work daily with TypeScript, REST, and GraphQL APIs to streamline development. I’m committed to staying up-to-date in the ever-evolving field of software development and am excited to bring unique ideas to life.
+I’ve been working in web development for more than ten years, and my areas of expertise are developing websites, web applications, and backend systems using the technologies such as **TypeScript**, **NestJS** and **Nuxt.js**, **PostgreSQL** and **Docker**.
 
-I'm currently building [Velopacker](https://velopacker.com) — All-in-one Bikepacking and Touring Planner
+I'm currently building:
+
+- [Velopacker](https://velopacker.com): All-in-one Bikepacking and Touring Planner
+- [Portiyer](https://portiyer.com): Simple Server Monitoring Tool
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
