@@ -6,8 +6,8 @@ I’ve been working in web development for more than ten years, and my areas of 
 
 I'm currently building:
 
-- [Velopacker](https://velopacker.com): All-in-one Bikepacking and Touring Planner
-- [Portiyer](https://portiyer.com): Simple Server Monitoring Tool
+- [Velopacker.com](https://velopacker.com): All-in-one Bikepacking and Touring Planner
+- [SimpleServerMonitoring.com](https://simpleservermonitoring.com): Simple Server Monitoring Tool
 
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
