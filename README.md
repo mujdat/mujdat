@@ -6,9 +6,9 @@ I’ve been working in web development for more than ten years, and my areas of 
 
 I'm currently building:
 
-- [Velopacker.com](https://velopacker.com): All-in-one Bikepacking and Touring Planner
-- [SimpleServerMonitoring.com](https://simpleservermonitoring.com): Simple Server Monitoring Tool
-
+- [Velopacker](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
+- [Online Room Planner](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
+- [Simple Server Monitoring](https://simpleservermonitoring.com): Simple, Secure, and Inexpensive Server Monitoring Tool
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
