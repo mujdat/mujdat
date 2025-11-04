@@ -8,7 +8,6 @@ I'm currently building:
 
 - [Velopacker](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
 - [Online Room Planner](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
-- [Simple Server Monitoring](https://simpleservermonitoring.com): Simple, Secure, and Inexpensive Server Monitoring Tool
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
