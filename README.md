@@ -7,7 +7,6 @@ I’ve been working in web development for more than ten years, and my areas of 
 I'm currently building:
 
 - [VeloPacker](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
-- [Online Room Planner](https://onlineroomplanner.com): 2D Room & Event Layout Planning Tool for Event Managers and Organizers
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
