@@ -1,10 +1,10 @@
 ### Hello! 👋🏻
 
-My name is **Müjdat** — I'm a **software developer**, electronic music maker and a cycling enthusiast based in Dresden, Germany.
+My name is **Müjdat**, I'm a **software developer**, electronic music maker and cycling enthusiast.
 
-I’ve been working in web development for more than ten years, and my areas of expertise are developing websites, web applications, and backend systems using the technologies such as **TypeScript**, **NestJS** and **Nuxt.js**, **PostgreSQL** and **Docker**.
+I've spent well over a decade in web development. I started on the frontend, and today I work on the backend, systems and infrastructure, building web applications and the self-hosted infrastructure that runs them, with automated pipelines, multi-server setups and full observability.
 
-I'm currently building:
+Side Projects:
 
 - [VeloPacker](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
 <!--
