@@ -2,11 +2,8 @@
 
 My name is **Müjdat**, I'm a **software developer**, electronic music maker and cycling enthusiast.
 
-I've spent well over a decade in web development. I started on the frontend, and today I work on the backend, systems and infrastructure, building web applications and the self-hosted infrastructure that runs them, with automated pipelines, multi-server setups and full observability.
+I've spent well over a decade in web development. I work on the backend, systems and platform engineering — building web applications and the platforms that run them, with automated pipelines, containerized deployments and full observability.
 
-Side Projects:
-
-- [VeloPacker](https://velopacker.com): All-in-one Bikepacking and Bike Touring Planner
 <!--
 **mujdat/mujdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
